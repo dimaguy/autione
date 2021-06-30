@@ -31,7 +31,9 @@ If you need something with JS back-end or web/mobile front-end, maybe, get in to
 - 🕹 My favourite game is Minecraft;
 - 🧩 My logos are fully connectable even though no image is actually created by doing that.
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api?username=autione&show_icons=true" alt="My GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autione&layout=compact" alt="My most used languages in repos" />
-</center>
+<table>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=autione&show_icons=true" alt="My GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autione&layout=compact" alt="My most used languages in repos" />
+  </tr>
+</table>
