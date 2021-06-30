@@ -33,7 +33,19 @@ If you need something with JS back-end or web/mobile front-end, maybe, get in to
 
 <table>
   <tr>
-    <img src="https://github-readme-stats.vercel.app/api?username=autione&show_icons=true" alt="My GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autione&layout=compact" alt="My most used languages in repos" />
+    <th>
+      GitHub Stats
+    </th>
+    <th>
+      Most used langs
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=autione&show_icons=true" alt="My GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autione&layout=compact" alt="My most used languages in repos" />
+    </td>
   </tr>
 </table>
