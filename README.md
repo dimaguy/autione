@@ -90,7 +90,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
   </tr>
 </table>
 
-**😎 About me**
+**😎 About me:**
 <ul>
   <li><b>⚙ Favourite language:</b> TypeScript;</li>
   <li><b>🕹 Favourite game:</b> Minecraft.</li>
@@ -105,7 +105,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       GitHub Stats
     </th>
     <th>
-      Most used langs
+      Most Used Languages
     </th>
   </tr>
   <tr>
