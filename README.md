@@ -66,7 +66,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       <a href="https://python.org/" title="Python 🐍">
         <img src="https://simpleicons.org/icons/python.svg" width=24 />
       </a>
-      <a href="https://expo.io/" title="Lua 🇧🇷🌕">
+      <a href="https://www.lua.org/" title="Lua 🇧🇷🌕">
         <img src="https://simpleicons.org/icons/lua.svg" width=24 />
       </a>
     </td>
@@ -80,7 +80,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       <a href="https://www.ruby-lang.org/en/" title="Ruby 💎">
         <img src="https://simpleicons.org/icons/ruby.svg" width=24 />
       </a>
-      <a href="https://www.php.net/" title="PHP ">
+      <a href="https://www.php.net/" title="PHP 🥚">
         <img src="https://simpleicons.org/icons/php.svg" width=24 />
       </a>
       <a href="https://kotlinlang.org/" title="Kotlin 🍵">
