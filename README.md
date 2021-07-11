@@ -30,7 +30,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       <a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5 🌐">
         <img src="https://simpleicons.org/icons/html5.svg" width=24 />
       </a>
-      <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3">
+      <a href="https://en.wikipedia.org/wiki/CSS" title="CSS3 🎨">
         <img src="https://simpleicons.org/icons/css3.svg" width=24 />
       </a>
       <a href="https://electronjs.org/" title="ElectronJS 💻">
