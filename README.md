@@ -67,7 +67,7 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
         <img src="https://simpleicons.org/icons/python.svg" width=24 />
       </a>
       <a href="https://www.lua.org/" title="Lua 🇧🇷🌕">
-        <img src="https://simpleicons.org/icons/lua.svg" width=24 />
+        <img src="https://simpleicons.org/icons/lua.svg" width=24 />*
       </a>
     </td>
     <td align="center">
@@ -88,6 +88,14 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       </a>
     </td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>* See also: <a href="https://luvit.io/" title="Luvit 🌑">Luvit</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 **😎 About me:**
@@ -95,6 +103,23 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
   <li><b>⚙ Favourite language:</b> TypeScript;</li>
   <li><b>🕹 Favourite game:</b> Minecraft.</li>
   <li><b>🧑 Preferred pronoun:</b> Any.</li>
+  <li>
+    <b>🧰 Tools:</b>
+    <div style="display:flex;flex-direction:row;justify-content:space-between;">
+      <a href="https://figma.com/" title="Figma 🖌">
+        <img src="https://simpleicons.org/icons/figma.svg" width=24 />
+      </a>
+      <a href="https://vscodium.com/" title="VSCodium 🗒">
+        <img src="https://simpleicons.org/icons/visualstudiocode.svg" width=24 />
+      </a>
+      <a href="https://neovim.io/" title="NeoVim 🧑‍💻">
+        <img src="https://simpleicons.org/icons/neovim.svg" width=24 />
+      </a>
+      <a href="https://www.mozilla.org/en-US/firefox/developer/" title="Firefox Developer Edition 🦊">
+        <img src="https://simpleicons.org/icons/firefoxbrowser.svg" width=24 />
+      </a>
+    </div>
+  </li>
 </ul>
 
 <hr/>
