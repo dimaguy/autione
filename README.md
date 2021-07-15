@@ -101,8 +101,8 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
 **😎 About me:**
 <ul>
   <li><b>⚙ Favourite language:</b> TypeScript;</li>
-  <li><b>🕹 Favourite game:</b> Minecraft.</li>
-  <li><b>🧑 Preferred pronoun:</b> Any.</li>
+  <li><b>🕹 Favourite game:</b> Minecraft;</li>
+  <li><b>🧑 Preferred pronoun:</b> Any;</li>
   <li>
     <b>🧰 Tools:</b>
     <div style="display:flex;flex-direction:row;justify-content:space-between;">
