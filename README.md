@@ -21,9 +21,6 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
   </tr>
   <tr>
     <td align="center">
-      <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript (NOT JAVA!) 🟨☕">
-        <img src="https://simpleicons.org/icons/javascript.svg" width=24 />
-      </a>
       <a href="https://reactjs.org/" title="ReactJS ⚛">
         <img src="https://simpleicons.org/icons/react.svg" width=24 />
       </a>
@@ -41,9 +38,6 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       </a>
     </td>
     <td align="center">
-      <a href="https://www.typescriptlang.org/" title="TypeScript 🟦⭐">
-        <img src="https://simpleicons.org/icons/typescript.svg" width=24 />
-      </a>
       <a href="https://nodejs.org/" title="Node.JS 💾">
         <img src="https://simpleicons.org/icons/nodedotjs.svg" width=24 />
       </a>
@@ -63,6 +57,12 @@ I am AutiOne _(formerly known as FiveMania)_. I'm 14 year old and I live in Braz
       </a>
     </td>
     <td align="center">
+      <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript (NOT JAVA!) 🟨☕">
+        <img src="https://simpleicons.org/icons/javascript.svg" width=24 />
+      </a>
+      <a href="https://www.typescriptlang.org/" title="TypeScript 🟦⭐">
+        <img src="https://simpleicons.org/icons/typescript.svg" width=24 />
+      </a>
       <a href="https://python.org/" title="Python 🐍">
         <img src="https://simpleicons.org/icons/python.svg" width=24 />
       </a>
